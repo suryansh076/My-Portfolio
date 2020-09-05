@@ -1,0 +1,35 @@
+#first{
+    text-align: center;
+    font-family: serif; ;
+}
+#FF{
+    color: white;
+}
+#SS{
+    color: white;
+}
+#DD{
+    color: white;
+}
+#GG{
+    color: white;
+}
+#HH{
+    color: white;
+}
+body{
+    background-image: url("banner-2369464_1920.jpg");
+}
+h2{
+	font-family: serif;
+}
+#para{
+	border: solid black 1px;
+
+}
+#image{
+	height: 15%;
+	width: 15%;
+	float: right;
+	
+}
